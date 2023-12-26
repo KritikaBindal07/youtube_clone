@@ -4,6 +4,9 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+/* .center{
+  justify-content: center;
+} */
 
 a {
   text-decoration: none;
@@ -50,7 +53,7 @@ a {
   text-transform: capitalize;
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
   cursor:pointer;
   background: transparent;
   outline: none;
